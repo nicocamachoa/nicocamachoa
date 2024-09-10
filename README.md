@@ -15,3 +15,6 @@ Soy estudiante de ingenieria de sistemas apasionado por el desarrollo de softwar
 ## 📫 Cómo contactarme
 - [LinkedIn](enlace a tu LinkedIn)
 - Email: [tuemail@example.com](mailto:tuemail@example.com)
+
+
+![Mis GitHub stats :)](https://github-readme-stats.vercel.app/api?username=nicocamachoa&show_icons=true)
