@@ -1,11 +1,11 @@
-# 👋 Hola, soy [Tu Nombre]
+# 👋 Hola, soy Nicolas Camacho
 
-Soy ingeniero de sistemas apasionado por el desarrollo de software y los sistemas distribuidos. Me encanta aprender nuevas tecnologías y aplicarlas en proyectos que resuelvan problemas del mundo real.
+Soy estudiante de ingenieria de sistemas apasionado por el desarrollo de software, IA, analisis de datos, y cualquier reto que me pongan! Me encanta aprender nuevas tecnologías y aplicarlas en proyectos que resuelvan problemas del mundo real.
 
 ## 🚀 Tecnologías y herramientas
-- **Lenguajes**: Python, Java, C++
-- **Frameworks**: React, Django, Flask
-- **Otros**: Docker, Kubernetes, ZeroMQ
+- **Lenguajes**: Python, Java, C++, JS, SQL
+- **Frameworks**: React
+- **Otros**: AWS
 
 ## 🌟 Proyectos destacados
 - [Proyecto 1 - My-Uber](enlace): Simulación de una aplicación de transporte usando ZeroMQ.
