@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hola, soy [Tu Nombre]
 
-<!--
-**nicocamachoa/nicocamachoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy ingeniero de sistemas apasionado por el desarrollo de software y los sistemas distribuidos. Me encanta aprender nuevas tecnologías y aplicarlas en proyectos que resuelvan problemas del mundo real.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y herramientas
+- **Lenguajes**: Python, Java, C++
+- **Frameworks**: React, Django, Flask
+- **Otros**: Docker, Kubernetes, ZeroMQ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Proyectos destacados
+- [Proyecto 1 - My-Uber](enlace): Simulación de una aplicación de transporte usando ZeroMQ.
+- [Proyecto 2 - Dogin](enlace): Sistema de gestión de mascotas para veterinarios y dueños.
+
+## 📫 Cómo contactarme
+- [LinkedIn](enlace a tu LinkedIn)
+- Email: [tuemail@example.com](mailto:tuemail@example.com)
